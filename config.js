@@ -7,22 +7,22 @@
 */
 
 global.prefa = ['','!','.',',','🐸','🗿']
-global.owner = ['910000000000']
-global.ownMain = '910000000000'
-global.NamaOwner = 'TechGodSir' //your name
+global.owner = ['2347041039367']
+global.ownMain = '2347041039367'
+global.NamaOwner = 'BLUE DEMON' //your name
 global.sessionName = 'session'
 global.connect = true // for qr code do this false
-global.namabot = 'TECH-GOD-9' //don't change
-global.author = 'TechGodSir' //don't change
-global.packname = 'TechGodSir' //sticker name
+global.namabot = 'BLUE DEMON' //don't change
+global.author = 'BLUE DEMON' //don't change
+global.packname = 'BLUE DEMON' //sticker name
 global.domain = '' // Isi Domain Lu
 global.apikey = 'ptla_F9N0OMtFjU0fbiO04EJiPUcw3XaPgMUmJZA6cAk3zt8' // Isi Apikey Plta Lu
 global.capikey = 'ptlc_4SNLfuJidXDSWPx1LeIdY3TrFrcTaUcWqcJ92uORpTV' // Isi Apikey Pltc Lu
 global.eggsnya = '15' // id eggs yang dipakai
 global.location = '1' // id location
-global.url1 = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h' //don't change this
-global.url2 = 'https://www.youtube.com/@techgod143' //Don't change this
-global.linkgc = 'https://whatsapp.com/channel/0029VahKfXr8aKvG3ctVjG1z'
+global.url1 = '' //don't change this
+global.url2 = '' //Don't change this
+global.linkgc = ''
 global.delayjpm = 3500
 
 global.mess = { // Don't change this
